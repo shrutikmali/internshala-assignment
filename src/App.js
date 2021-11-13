@@ -9,7 +9,7 @@ const App = () => {
   return (
     <>
       <div className='background'>
-        <img src={Student} className='bgImage'/>
+        <img src={Student} className='bgImage' alt='Student'/>
       </div>
       <NavBar />
       <Section />
