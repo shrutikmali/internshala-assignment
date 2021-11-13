@@ -12,8 +12,8 @@ const Footer = () => {
     <div className='footerStyle'>
       <div className='footerHeading'>
         <p>
-          <span style={{color: 'blue'}}>Helping Students </span>
-          <span style={{color: 'orange'}}>Achieve Their Dream.</span>
+          <span className='footerSpan' style={{color: 'blue'}}>Helping Students </span>
+          <span className='footerSpan' style={{color: 'orange'}}>Achieve Their Dream.</span>
         </p>
       </div>
       <div className='footerSubtitle'>

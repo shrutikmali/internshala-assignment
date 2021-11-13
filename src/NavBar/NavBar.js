@@ -18,10 +18,10 @@ const NavBar = () => {
           <button>About Us</button>
         </div>
         <div className='nav-element'>
-          <button className='login'>Login</button>
+          <button className='login' style={{backgroundColor: 'rgb(255, 255, 255)'}}>Login</button>
         </div>
         <div className='nav-element'>
-          <button className='sign-up'>Sign Up</button>
+          <button className='sign-up' style={{backgroundColor: 'rgb(255, 149, 0)'}}>Sign Up</button>
         </div>
       </div>
     </div>

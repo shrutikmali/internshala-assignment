@@ -3,3 +3,13 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+.background {
+  height: 80vh;
+  width: 100vw;
+  background-color: rgb(252, 242, 217);
+  position: absolute;
+  z-index: -1;
+  border-bottom-left-radius: 35%;
+  border-bottom-right-radius: 35%;
+}
