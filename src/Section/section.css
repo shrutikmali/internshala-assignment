@@ -47,6 +47,8 @@
   background-color: orange;
   border: none;
   outline: none;
+  width: fit-content;
+  font-size: 14px;
   height: 32px;
   border-radius: 16px;
   padding: 0px 16px;

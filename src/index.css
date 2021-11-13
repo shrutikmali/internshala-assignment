@@ -5,7 +5,7 @@
 }
 
 .background {
-  height: 65vh;
+  height: 68vh;
   width: 100vw;
   background-color: rgb(252, 242, 217);
   position: absolute;
@@ -17,6 +17,6 @@
 .bgImage {
   width: 300px;
   position: relative;
-  left: 990px;
+  left: 880px;
   top: 70px;
 }
