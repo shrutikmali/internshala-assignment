@@ -26,6 +26,10 @@
   cursor: pointer;
 }
 
+.nav-element > button:hover {
+  text-decoration: underline;
+}
+
 .login {
   width: 65px;
   height: 32px;
