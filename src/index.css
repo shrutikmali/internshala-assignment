@@ -15,7 +15,8 @@
 }
 
 .bgImage {
-  position: absolute;
-  right: 405px;
+  width: 300px;
+  position: relative;
+  left: 990px;
   top: 70px;
 }

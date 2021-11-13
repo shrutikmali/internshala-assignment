@@ -1,7 +1,7 @@
 .floatingTile {
   width:fit-content;
   height: fit-content;
-  background-color: rgb(253, 252, 247);
+  background-color: #ffffffb4;
   border-radius: 12px;
   display: flex;
   flex-direction: column;

@@ -4,18 +4,15 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  border: 1px solid black;
 }
 
 .sectionLeft {
   height: 50%;
   width: 30%;
-  /* border: 1px solid red; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   padding-left: 70px;
-  /* align-items: center; */
 }
 
 .sectionLeftHeader > p {
@@ -42,7 +39,6 @@
   margin-top: 32px;
   display: flex;
   width: 80%;
-  /* border: 1px solid black; */
   justify-content: space-between;
   align-items: center;
 }
@@ -58,14 +54,16 @@
 }
 
 .sectionLeftFooterPlayBtn {
-  width: 32px;
-  height: 32px;
-  border-radius: 16px;
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
   background-color: white;
   display: flex;
   align-items: center;
   justify-content: center;
   padding-left: 2px;
+  cursor: pointer;
+  margin-left: 24px;
 }
 
 .sectionRight {
@@ -75,7 +73,5 @@
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  border: 1px solid black;
-  /* padding-right: 240px; */
   align-items: space;
 }
